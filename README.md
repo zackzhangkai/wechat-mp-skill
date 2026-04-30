@@ -237,14 +237,12 @@ curl -X POST "https://api.weixin.qq.com/cgi-bin/freepublish/publish?access_token
 
 **个人资料（来自 Issue #3）：**
 
-| 类型 | 图片 |
-|------|------|
-| 赞赏码 | ![赞赏码](https://raw.githubusercontent.com/zackzhangkai/openclaw-course-website/main/images/donation_qr.png) |
-| 个人微信 | ![个人微信二维码](https://raw.githubusercontent.com/zackzhangkai/openclaw-course-website/main/images/personal_wechat_qr.png) |
-| 公众号 | ![公众号二维码](https://raw.githubusercontent.com/zackzhangkai/openclaw-course-website/main/images/official_account_qr.png) |
-| 知识星球 | ![知识星球](https://raw.githubusercontent.com/zackzhangkai/openclaw-course-website/main/images/planet_qr.png) |
+> 完整个人资料（赞赏码、微信、公众号、知识星球二维码）请查看：
+> 👉 [GitHub Issue #3 - 个人信息](https://github.com/zackzhangkai/openclaw-course-website/issues/3)
 
-> 注：图片来自 [个人资料 Issue](https://github.com/zackzhangkai/openclaw-course-website/issues/3)，如无法显示请查看原 Issue。
+| 类型 | 链接 |
+|------|------|
+| 赞赏码 / 微信 / 公众号 / 知识星球 | [查看原 Issue 获取图片](https://github.com/zackzhangkai/openclaw-course-website/issues/3) |
 
 **工作流：**
 ```
