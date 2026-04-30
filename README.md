@@ -206,12 +206,16 @@ curl -X POST "https://api.weixin.qq.com/cgi-bin/freepublish/publish?access_token
 
 **源文档（飞书） → 目标文档（微信公众号）：**
 
-| 类型 | 文档 | 链接 |
-|------|------|------|
-| 📘 源文档 | 飞书文档（Feishu Wiki） | [基于OpenClaw的PPT生成实战演示](https://my.feishu.cn/wiki/ONBMwTICRiVBzJkek7RczorgnNh) |
-| 📰 目标文档 | 微信公众号文章 | [查看效果](https://mp.weixin.qq.com/s/n2PyAXrDIiEMCD9SHFUzug) |
-| 👤 个人资料 | GitHub Issue | [Issue #3](https://github.com/zackzhangkai/openclaw-course-website/issues/3) |
-| 📦 开源仓库 | wechat-mp-skill | [GitHub 仓库](https://github.com/zackzhangkai/wechat-mp-skill) |
+| 类型 | 文档 | 链接 | 仓库文件 |
+|------|------|------|----------|
+| 📘 源文档 | 飞书文档（Feishu Wiki） | [基于OpenClaw的PPT生成实战演示](https://my.feishu.cn/wiki/ONBMwTICRiVBzJkek7RczorgnNh) | `feishu_source_doc.json` / `feishu_source_parsed.html` |
+| 📰 目标文档 | 微信公众号文章 | [查看效果](https://mp.weixin.qq.com/s/n2PyAXrDIiEMCD9SHFUzug) | `cover.jpg` / `wechat_qr.jpg` |
+| 👤 个人资料 | GitHub Issue | [Issue #3](https://github.com/zackzhangkai/openclaw-course-website/issues/3) | — |
+| 📦 开源仓库 | wechat-mp-skill | [GitHub 仓库](https://github.com/zackzhangkai/wechat-mp-skill) | — |
+
+**源文档文件说明：**
+- `feishu_source_doc.json` — 飞书 API 返回的 raw blocks（11张图片、正文、样式）
+- `feishu_source_parsed.html` — 解析后的源文档 HTML（未加公众号样式）
 
 **文章封面（目标文档）：**
 ![封面图](cover.jpg)

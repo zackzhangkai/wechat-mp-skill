@@ -1,0 +1,2488 @@
+{
+  "code": 0,
+  "data": {
+    "has_more": false,
+    "items": [
+      {
+        "block_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "block_type": 1,
+        "children": [
+          "Dn1hd4RwZovcyRxthrLcCmT1n4b",
+          "I932dR0lVokIzEx3wyqcGBxFn3e",
+          "OvOWdPR2Don8WHxwBNOcTGFenDc",
+          "ByW7d3jbXo3h6ixFcBGcIWUHnFd",
+          "CSlldTTVLod8htxMMaHcO2ZQnVb",
+          "Ozq9ddyfWonL9Rx9zeRcczefngb",
+          "RAVndfZEloO0PIxkCYwcEbaantd",
+          "Eq7rdRxjVoboEYxjIsccnFOsnZb",
+          "IiNCdtGoGobEWfx34dscMFR9nqf",
+          "JGmLd7XxNohmjLx3ReocT4LynEh",
+          "G3erdKhBBorfaAxknLHciqbrnHb",
+          "U7hGdfFDWo0fOwxJAzdcTVxunif",
+          "UmKFdUU6qoWABVxW1IOcSy8Tn6e",
+          "UtnDdybJMoq7SmxWLrqcEkp6nGg",
+          "GyaKdwHj6osfHcxCTJWcZn4InPe",
+          "Xk9FdI7qgohL7Vx1e44c21I4nDb",
+          "XzYQdtP1woW2BIxqos6cKfw2nBf",
+          "XWEId7VzeoeKGExltvycU0NwnOd",
+          "PO6ndxIJAobD9gxcbzMcEnzVnPc",
+          "Z5JqdzI0ao2iFXx47yqckthln39",
+          "Bw9RddcZAoMISMx0RMqchEMSnvd",
+          "PPRnd0KDso8ASuxfELWcOO2tnDf",
+          "KPpYdEGrqoskLSxeGX1c5DOQnqp",
+          "W5D9d7HjJolM9Lx8PHkcgWRlnce",
+          "A05DdH5RGoOhaVxQYPQcxO83nZf",
+          "UFGpdljWoohuFfxqfPackIOKnEg",
+          "ZPULdAIrnoOq6UxwsrCcBFQpnFe",
+          "GSQsdeULFoPx2RxJQKicaaFdnAs",
+          "IQKgdCGKsodtZjxWluXcp4hmnZb",
+          "KVaydVlnpoen2mx2xgUcgHGvnge",
+          "SKcpd2GuaoyYPAxs0oVcrduJnng",
+          "SaBudfOLtoL3P7xy34Mc736xnxf",
+          "MFTZdkbJEo6jSMxqHVuc4hdsncf",
+          "RIx3dX7aQoySuYxAnizc6Axpnze",
+          "KIAOdYLrgoW8nyxDMlKcBDpHnkb",
+          "SmJTdFrRuoIUrNxKZbicsAFSnte",
+          "Nyeid009SocgN2xvr5YcR1P3nWg",
+          "Jd3sd6w0poU6TPx7NyBcDofRncs",
+          "TcT6dfXagoTzFXx1Kc1cepSunNe",
+          "JjUadYixhoUDexx6Yd6cAqnunZc",
+          "WGYFd0GuBoT70rxhHzBcUaYWn3f",
+          "WOHzdc9y3oIZf3xQpZBcqEKXnKd",
+          "YXfAdB6VhonDRUxD3O3c8wh0nth",
+          "P3NhdOKnWo3sw1xX2bPccnvYnef",
+          "B2ZZdfP3ZohiqOxYRz8cG2OonRc",
+          "A6FVdO3KToKQuHxCLw2cFMuNn1c",
+          "FWEDdCTTCoXyyFx3DTAcbXABnff",
+          "OqHEdhnttoLunrxc3nwcvvpGnjC",
+          "L2omdOaTTok6UVxC7qGcvt2rnto",
+          "ZGVTdlmbrojEO6x3twgcpQbYnac",
+          "FetGdBawnova2ExW87PcUpV7nFg",
+          "TfgJdld5bon2QnxoVmFcsBGknPE",
+          "DOkJd7v5zoKh9BxfEE0cabBAnOh",
+          "Cd2MdN4yYonQmXx0fyycTKoTns6",
+          "JXsBd5oIHoXNTtxitLzclgfFnOb",
+          "PtR8dtxXxokUq9xe8FacEOBonGc",
+          "XOhldqCDmoI0T9xMPH2cDtKLnDe",
+          "ZRB1dLjdcoQgycxJp1NcyT1wnWf",
+          "WGcSdinKqocjJaxEBnycnq4Unbd",
+          "DktEdTVfGow3mzxPhmjcNw24nwH",
+          "IG8VdRY9ZoHb4lxGzodc5iV7nue",
+          "Et6ddq3qco1hiSx64bfcXpUGn1b",
+          "Ny1Jdkv7Fo3zu2xpAbfczDwfnGd",
+          "HGf6dYgt7oHs5yx9IBzcwc02nxd",
+          "PgRdd8RVjoKq6vxIN9WcdQ4Pnwe",
+          "MlNSdRWzOoJ4qfx7MpVc3klMnwp",
+          "KF8Hdq0V7oEBoexxxz0cjnyWn9d",
+          "X02Kdlsw2oTitgx9ncpcQZU9nfc",
+          "UYXkdcneaoJGPyx6A9icIqgxnId",
+          "XwXEd5WquoI1qVxJnMWcadTjn2e",
+          "SV8Idc2wQoDoKXxvW81cspkMnSd",
+          "C0FFdAg3NoUmFTxhiPZc3kggnm7",
+          "VlmjdA2r5o4SwbxERMWcQzEmnMs",
+          "XcPbdQXEyo7ZboxmHZ9cFbokn3d",
+          "ZGeCdQurpo9j6ZxCAgJcZe27nbh",
+          "RGfmdQ5HforvzGxQyopcfEnDnvp",
+          "AaWMdgSnPoRnqax8FnRcjQ7cnXb",
+          "XBGQd1GX6omkpBx5Ii4cvm49nee",
+          "LW9odaPlnoBP8wxKKt6cHPWDnfg",
+          "Pl7Fdme1toSvbVxunVxcUbWNnjg",
+          "O12WdV3w2obTM1xxD6zcSgtXnee",
+          "A6vXdWu5QoJMojxgQM8c5sHwnNb",
+          "MtAVd196ToR1KkxAhuWcn0fjnEh",
+          "NwAjdtUonoZEoDxb1KZc6ZeNnvb",
+          "FA6SdKjWPobCT0xnBuJc0nj4nRg",
+          "RcL6dhn8Vo667KxCdW4crksjnEc",
+          "NjIXdA6ylo6va7xi75ecFcCln0b",
+          "Ab7KdUHnMo0clwxUrVqcmkvtnDb",
+          "ElgVdqv2QoZNn4xWtvCc7scyntg",
+          "PDo2dbbA3oaJXvxROtSclXGxnKe",
+          "EmcTds4iKodLiixcn0Nc1AILngd",
+          "Rwm5d8nIjoYHPAxzUIkcn1LTntc",
+          "S8ljdJHh8oKlHexbWGjcRebNnng",
+          "MefhdGZREoqeAzx9vUTcEe1JnKb",
+          "RXMhd119qo2dx6xA2cvcMKqYnoe",
+          "JVyrdKxj8oh9H0xpYzccvRATnxc",
+          "ESfKdNy6DoN9EWxVKwTcarpFn3d",
+          "PhmGdMpHjovb9BxnvQscdBxknWc",
+          "Kh7UdkBPPoy7oWxgKOPcFcK6nVd"
+        ],
+        "page": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "基于OpenClaw的PPT生成实战演示-从翻车到成功实录",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1
+          }
+        },
+        "parent_id": ""
+      },
+      {
+        "block_id": "Dn1hd4RwZovcyRxthrLcCmT1n4b",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "I932dR0lVokIzEx3wyqcGBxFn3e",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "mention_doc": {
+                "obj_type": 16,
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                },
+                "title": "个人资料",
+                "token": "HGmEwYoWOiZF6Ckn6AbcSnyGnng",
+                "url": "https://my.feishu.cn/wiki/HGmEwYoWOiZF6Ckn6AbcSnyGnng?from=from_copylink"
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "OvOWdPR2Don8WHxwBNOcTGFenDc",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "背景",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "ByW7d3jbXo3h6ixFcBGcIWUHnFd",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "CSlldTTVLod8htxMMaHcO2ZQnVb",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "最近一直在用PPT Skill做调研，它已经跟我做了大量的文档。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Ozq9ddyfWonL9Rx9zeRcczefngb",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "前几天，还直接微信交互跟我做出了个仿《我的世界》游戏。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "RAVndfZEloO0PIxkCYwcEbaantd",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Eq7rdRxjVoboEYxjIsccnFOsnZb",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "心想，这次演示应该很顺利，没想到，出现了小插曲，毫无意外的翻车了！",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "IiNCdtGoGobEWfx34dscMFR9nqf",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "JGmLd7XxNohmjLx3ReocT4LynEh",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "本来以为只要10分钟就能完成的工作，前前后后竟然花费了2个小时。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "G3erdKhBBorfaAxknLHciqbrnHb",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "U7hGdfFDWo0fOwxJAzdcTVxunif",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "索性最后结果还不错，是一次真实的经历，值得思考与借鉴！",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "UmKFdUU6qoWABVxW1IOcSy8Tn6e",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "UtnDdybJMoq7SmxWLrqcEkp6nGg",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "因此，这个整个事情的经过，就成了我今天分享的主要内容。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "GyaKdwHj6osfHcxCTJWcZn4InPe",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Xk9FdI7qgohL7Vx1e44c21I4nDb",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "如下为用它做的大量PPT:",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "XzYQdtP1woW2BIxqos6cKfw2nBf",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "XWEId7VzeoeKGExltvycU0NwnOd",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 872,
+          "scale": 1,
+          "token": "JJNnbPPaJoJ3aQxgyuacL0vAnug",
+          "width": 844
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "PO6ndxIJAobD9gxcbzMcEnzVnPc",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "再看下龙虾为我做的小游戏：仿《我的世界》游戏",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Z5JqdzI0ao2iFXx47yqckthln39",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Bw9RddcZAoMISMx0RMqchEMSnvd",
+        "block_type": 33,
+        "children": [
+          "JP2wdmnLmoQVhfxOyMJc0QiknKd"
+        ],
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "view": {
+          "view_type": 2
+        }
+      },
+      {
+        "block_id": "JP2wdmnLmoQVhfxOyMJc0QiknKd",
+        "block_type": 23,
+        "file": {
+          "name": "247_1777436738.mp4",
+          "token": "X0Z4bNVOxo0mhsxWBnNcOzEInAg"
+        },
+        "parent_id": "Bw9RddcZAoMISMx0RMqchEMSnvd"
+      },
+      {
+        "block_id": "PPRnd0KDso8ASuxfELWcOO2tnDf",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "KPpYdEGrqoskLSxeGX1c5DOQnqp",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "W5D9d7HjJolM9Lx8PHkcgWRlnce",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "以下为我的操作及翻车过程，跟大家分享！",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "A05DdH5RGoOhaVxQYPQcxO83nZf",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "开始",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "UFGpdljWoohuFfxqfPackIOKnEg",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "ZPULdAIrnoOq6UxwsrCcBFQpnFe",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "翻车现场之一：被龙虾骗了！",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "GSQsdeULFoPx2RxJQKicaaFdnAs",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "今天为了分享这个主题，我先是用手机摇控我的“龙虾”，听说最近小米出了个模型很牛逼，想让它做调研报告。本来觉得肯定没问题，结果就发生了下面尴尬的事情：",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "IQKgdCGKsodtZjxWluXcp4hmnZb",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "KVaydVlnpoen2mx2xgUcgHGvnge",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 2670,
+          "scale": 1,
+          "token": "ZblSbb9elo4xQnxlAW3cXvNKnOd",
+          "width": 1200
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "SKcpd2GuaoyYPAxs0oVcrduJnng",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "SaBudfOLtoL3P7xy34Mc736xnxf",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "等了它半个多小时，竟然骗我！",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "MFTZdkbJEo6jSMxqHVuc4hdsncf",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "RIx3dX7aQoySuYxAnizc6Axpnze",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "以为微信的问题，换了“小灰机”继续测试，然后就发生了下面的尴尬的事情：",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "KIAOdYLrgoW8nyxDMlKcBDpHnkb",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "SmJTdFrRuoIUrNxKZbicsAFSnte",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "翻车现场之二：模型有问题！",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "Nyeid009SocgN2xvr5YcR1P3nWg",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "调研一下小米最近发布的模型，整理成 PPT 格式展示给我，部署上线后提供一个链接",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Jd3sd6w0poU6TPx7NyBcDofRncs",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "TcT6dfXagoTzFXx1Kc1cepSunNe",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 802,
+          "scale": 1,
+          "token": "O77IbrmaQoCpq7x9SkLcdFN7nwH",
+          "width": 2392
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "JjUadYixhoUDexx6Yd6cAqnunZc",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "此时，又出现一个新的问题，上下文超出设置的大小被强行清空，导致上下文丢失。（其实设置过冗余量，超过一定比例会自动压缩）",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "WGYFd0GuBoT70rxhHzBcUaYWn3f",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "检查openclaw  UI确实在执行，调用了一堆工具，最后还是出不来",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "WOHzdc9y3oIZf3xQpZBcqEKXnKd",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 800,
+          "scale": 1,
+          "token": "ZsuqbaCsXobdIexzlb2c5RwEnjf",
+          "width": 974
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "YXfAdB6VhonDRUxD3O3c8wh0nth",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "P3NhdOKnWo3sw1xX2bPccnvYnef",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "B2ZZdfP3ZohiqOxYRz8cG2OonRc",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "看来免费模型不行，换付费模型kimi-2.7，将上下文窗口调大至100万，最大输出也调大至385K。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "A6FVdO3KToKQuHxCLw2cFMuNn1c",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "翻车现场之三：本地图片无法显示",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "FWEDdCTTCoXyyFx3DTAcbXABnff",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 1616,
+          "scale": 1,
+          "token": "IkIRbhYqzoD6VKxfrfCcATqbnXd",
+          "width": 2330
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "OqHEdhnttoLunrxc3nwcvvpGnjC",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "L2omdOaTTok6UVxC7qGcvt2rnto",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "ZGVTdlmbrojEO6x3twgcpQbYnac",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "看来，这次可以，然来是模型的问题。然后我去看本地PPT确实生成得很好如下：",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "FetGdBawnova2ExW87PcUpV7nFg",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "TfgJdld5bon2QnxoVmFcsBGknPE",
+        "block_type": 33,
+        "children": [
+          "UrFvdUA9koAzJ2xxQH3ccZLTnKc"
+        ],
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "view": {
+          "view_type": 1
+        }
+      },
+      {
+        "block_id": "UrFvdUA9koAzJ2xxQH3ccZLTnKc",
+        "block_type": 23,
+        "file": {
+          "name": "index.html",
+          "token": "XwVMbYmacoEyydxTUvscNvgfn96"
+        },
+        "parent_id": "TfgJdld5bon2QnxoVmFcsBGknPE"
+      },
+      {
+        "block_id": "DOkJd7v5zoKh9BxfEE0cabBAnOh",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "file:///Users/zack/.openclaw/workspace-xiaofei/xiaomi-models-ppt/ppt/index.html",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Cd2MdN4yYonQmXx0fyycTKoTns6",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "JXsBd5oIHoXNTtxitLzclgfFnOb",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 752,
+          "scale": 1,
+          "token": "JYJPbWgLmoA6foxXgyGcAdGWnyh",
+          "width": 1331
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "PtR8dtxXxokUq9xe8FacEOBonGc",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "XOhldqCDmoI0T9xMPH2cDtKLnDe",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "然后，我就想：",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "ZRB1dLjdcoQgycxJp1NcyT1wnWf",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "WGcSdinKqocjJaxEBnycnq4Unbd",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "PPT生成 的第一版，总得修改下，加入一些自己的图片，有来有回，才显得真实。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "DktEdTVfGow3mzxPhmjcNw24nwH",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "IG8VdRY9ZoHb4lxGzodc5iV7nue",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "因此，我把刚才跟“小飞”的对话截图，告诉了它，让它基于刚才的生成PPT跟我的图片，去重新生成：",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Et6ddq3qco1hiSx64bfcXpUGn1b",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Ny1Jdkv7Fo3zu2xpAbfczDwfnGd",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 942,
+          "scale": 1,
+          "token": "TZftbLughoeRJNx4OxAceYzKn0g",
+          "width": 2316
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "HGf6dYgt7oHs5yx9IBzcwc02nxd",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "PgRdd8RVjoKq6vxIN9WcdQ4Pnwe",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "MlNSdRWzOoJ4qfx7MpVc3klMnwp",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "它本地生成了6张PPT，其中有一张是我截图的图片，但是我的这个图无法显示！",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "KF8Hdq0V7oEBoexxxz0cjnyWn9d",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "X02Kdlsw2oTitgx9ncpcQZU9nfc",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "翻车现场之四：远程部署的链接访问404！",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "UYXkdcneaoJGPyx6A9icIqgxnId",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "这个问题，我暂时没管它，因为有更大的问题，它提供的线上部署的有两版PPT，链接访问都是404。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "XwXEd5WquoI1qVxJnMWcadTjn2e",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "SV8Idc2wQoDoKXxvW81cspkMnSd",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "https://xiaomi-models-ppt.vercel.app/",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "C0FFdAg3NoUmFTxhiPZc3kggnm7",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 187,
+          "scale": 1,
+          "token": "KRckbhit7oqzsexeDg4clansnXc",
+          "width": 400
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "VlmjdA2r5o4SwbxERMWcQzEmnMs",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "登陆到后台，发现github已经推送，但是vercel并没有部署。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "XcPbdQXEyo7ZboxmHZ9cFbokn3d",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "ZGeCdQurpo9j6ZxCAgJcZe27nbh",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "如果我继续跟它对话，告诉它链接无法访问：",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "RGfmdQ5HforvzGxQyopcfEnDnvp",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "AaWMdgSnPoRnqax8FnRcjQ7cnXb",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 830,
+          "scale": 1,
+          "token": "PrrBbKRNPo4sLuxQsl5crogsnYg",
+          "width": 2366
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "XBGQd1GX6omkpBx5Ii4cvm49nee",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "LW9odaPlnoBP8wxKKt6cHPWDnfg",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "最后：兜兜转转，成功了！",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "Pl7Fdme1toSvbVxunVxcUbWNnjg",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "它很快就告诉我，它修复了，现在应该能成功访问。如是我去验证，确实成功：",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "O12WdV3w2obTM1xxD6zcSgtXnee",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "V1版：",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "https://xiaomi-models-ppt.vercel.app/",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "A6vXdWu5QoJMojxgQM8c5sHwnNb",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 635,
+          "scale": 1,
+          "token": "OZ7WbV5SUosidWxjK8xcttmMntg",
+          "width": 1765
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "MtAVd196ToR1KkxAhuWcn0fjnEh",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "V2版：",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "https://xiaomi-mimo-v2-ppt.vercel.app/",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "NwAjdtUonoZEoDxb1KZc6ZeNnvb",
+        "block_type": 27,
+        "image": {
+          "align": 2,
+          "height": 643,
+          "scale": 1,
+          "token": "NoyQbYXnSoTwNyxUaA3cOmhMnKh",
+          "width": 1802
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "FA6SdKjWPobCT0xnBuJc0nj4nRg",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "RcL6dhn8Vo667KxCdW4crksjnEc",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "NjIXdA6ylo6va7xi75ecFcCln0b",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Ab7KdUHnMo0clwxUrVqcmkvtnDb",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "总结：",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "ElgVdqv2QoZNn4xWtvCc7scyntg",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "PDo2dbbA3oaJXvxROtSclXGxnKe",
+        "block_type": 13,
+        "ordered": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "技术的出现，到工程化的落地中间，有大量的坑要踩，需要不断优化，这也是我创业的初衷：打通最后一公里，做私人及企业长期的定制化助手。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false,
+            "sequence": "1"
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "EmcTds4iKodLiixcn0Nc1AILngd",
+        "block_type": 13,
+        "ordered": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "免费模型不等于不好的模型，但是免费模型存在不稳定的情况（Minimax-2.5-free -\u003e  Kimi2.6）",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false,
+            "sequence": "auto"
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "Rwm5d8nIjoYHPAxzUIkcn1LTntc",
+        "block_type": 13,
+        "ordered": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "OpenClaw切换模型成本还是挺高的，除非提前全部配置好 （模型一旦降智，最终还得去修改配置文件配置）",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false,
+            "sequence": "auto"
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "S8ljdJHh8oKlHexbWGjcRebNnng",
+        "block_type": 13,
+        "ordered": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "PPT Skill才使用的进程中时，难免会有问题，需要不断改进，才能越用越好用",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false,
+            "sequence": "auto"
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "MefhdGZREoqeAzx9vUTcEe1JnKb",
+        "block_type": 13,
+        "ordered": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "不能迷信以前的经验，再有信心的事情也不可能完全顺理成章、十拿九稳！重要的是培养处理问题、解决问题的能力。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false,
+            "sequence": "auto"
+          }
+        },
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd"
+      },
+      {
+        "block_id": "RXMhd119qo2dx6xA2cvcMKqYnoe",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "JVyrdKxj8oh9H0xpYzccvRATnxc",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "ESfKdNy6DoN9EWxVKwTcarpFn3d",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "PhmGdMpHjovb9BxnvQscdBxknWc",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      },
+      {
+        "block_id": "Kh7UdkBPPoy7oWxgKOPcFcK6nVd",
+        "block_type": 2,
+        "parent_id": "MRyhdQ4agoYiNxxa922cTRX3nSd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    ]
+  },
+  "msg": "success"
+}
