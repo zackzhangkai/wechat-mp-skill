@@ -198,6 +198,42 @@ curl -X POST "https://api.weixin.qq.com/cgi-bin/freepublish/publish?access_token
 
 ---
 
+## 实战示例
+
+### 🎯 真实案例：飞书文档 → 公众号草稿
+
+> 写了一个飞书转微信公众号的 SKILL，开源出来了：https://github.com/zackzhangkai/wechat-mp-skill
+
+**生成效果：**
+- 公众号文章：https://mp.weixin.qq.com/s/n2PyAXrDIiEMCD9SHFUzug
+- 个人资料：https://github.com/zackzhangkai/openclaw-course-website/issues/3
+
+**效果预览：**
+
+| 类型 | 链接 |
+|------|------|
+| 📰 公众号文章 | [查看效果](https://mp.weixin.qq.com/s/n2PyAXrDIiEMCD9SHFUzug) |
+| 👤 个人资料 | [GitHub Issue #3](https://github.com/zackzhangkai/openclaw-course-website/issues/3) |
+| 📦 仓库地址 | [wechat-mp-skill](https://github.com/zackzhangkai/wechat-mp-skill) |
+
+**文章封面：**
+![封面图](cover.jpg)
+
+**工作流：**
+```
+用户："把 https://my.feishu.cn/wiki/ONBMwTICRiVBzJkek7RczorgnNh 搬到公众号草稿箱"
+  ↓
+Skill 自动执行：
+  1. lark-cli 获取飞书文档内容（11张图片、正文、标题）
+  2. 下载图片 → 上传到微信素材库（获取微信图片URL）
+  3. 生成美化 HTML（绿色主题、移动端排版）
+  4. 调用 draft/add 创建草稿
+  ↓
+结果：草稿已创建，11张图片全部嵌入，格式美化完成 ✅
+```
+
+---
+
 ## 完整工作流示例
 
 ### 从飞书文档到公众号草稿
