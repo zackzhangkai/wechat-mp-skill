@@ -204,20 +204,43 @@ curl -X POST "https://api.weixin.qq.com/cgi-bin/freepublish/publish?access_token
 
 > 写了一个飞书转微信公众号的 SKILL，开源出来了：https://github.com/zackzhangkai/wechat-mp-skill
 
-**生成效果：**
-- 公众号文章：https://mp.weixin.qq.com/s/n2PyAXrDIiEMCD9SHFUzug
-- 个人资料：https://github.com/zackzhangkai/openclaw-course-website/issues/3
+**源文档（飞书） → 目标文档（微信公众号）：**
 
-**效果预览：**
+| 类型 | 文档 | 链接 |
+|------|------|------|
+| 📘 源文档 | 飞书文档（Feishu Wiki） | [基于OpenClaw的PPT生成实战演示](https://my.feishu.cn/wiki/ONBMwTICRiVBzJkek7RczorgnNh) |
+| 📰 目标文档 | 微信公众号文章 | [查看效果](https://mp.weixin.qq.com/s/n2PyAXrDIiEMCD9SHFUzug) |
+| 👤 个人资料 | GitHub Issue | [Issue #3](https://github.com/zackzhangkai/openclaw-course-website/issues/3) |
+| 📦 开源仓库 | wechat-mp-skill | [GitHub 仓库](https://github.com/zackzhangkai/wechat-mp-skill) |
 
-| 类型 | 链接 |
-|------|------|
-| 📰 公众号文章 | [查看效果](https://mp.weixin.qq.com/s/n2PyAXrDIiEMCD9SHFUzug) |
-| 👤 个人资料 | [GitHub Issue #3](https://github.com/zackzhangkai/openclaw-course-website/issues/3) |
-| 📦 仓库地址 | [wechat-mp-skill](https://github.com/zackzhangkai/wechat-mp-skill) |
-
-**文章封面：**
+**文章封面（目标文档）：**
 ![封面图](cover.jpg)
+
+**转换流程：**
+```
+飞书源文档（含11张图片）
+    ↓  lark-cli 抓取
+    ↓  解析 docx blocks（标题/正文/图片）
+    ↓  下载图片 → 上传微信素材库
+    ↓  生成美化 HTML（绿色主题、移动端排版）
+    ↓  draft/add API
+    ↓
+微信公众号目标文档（草稿箱）
+    ✅ 标题：基于OpenClaw的PPT生成实战演示-从翻车到成功实录
+    ✅ 图片：11张全部嵌入
+    ✅ 格式：公众号移动端适配
+```
+
+**个人资料（来自 Issue #3）：**
+
+| 类型 | 图片 |
+|------|------|
+| 赞赏码 | ![赞赏码](https://raw.githubusercontent.com/zackzhangkai/openclaw-course-website/main/images/donation_qr.png) |
+| 个人微信 | ![个人微信二维码](https://raw.githubusercontent.com/zackzhangkai/openclaw-course-website/main/images/personal_wechat_qr.png) |
+| 公众号 | ![公众号二维码](https://raw.githubusercontent.com/zackzhangkai/openclaw-course-website/main/images/official_account_qr.png) |
+| 知识星球 | ![知识星球](https://raw.githubusercontent.com/zackzhangkai/openclaw-course-website/main/images/planet_qr.png) |
+
+> 注：图片来自 [个人资料 Issue](https://github.com/zackzhangkai/openclaw-course-website/issues/3)，如无法显示请查看原 Issue。
 
 **工作流：**
 ```
