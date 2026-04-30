@@ -206,12 +206,20 @@ curl -X POST "https://api.weixin.qq.com/cgi-bin/freepublish/publish?access_token
 
 **源文档（飞书） → 目标文档（微信公众号）：**
 
-| 类型 | 文档 | 链接 | 源文件 |
+| 类型 | 文档 | 链接 | 源文件（Issue #1） |
 |------|------|------|----------|
-| 📘 源文档 | 飞书文档（Feishu Wiki） | [基于OpenClaw的PPT生成实战演示](https://my.feishu.cn/wiki/ONBMwTICRiVBzJkek7RczorgnNh) | [feishu_source_doc.json](https://github.com/zackzhangkai/wechat-mp-skill/releases/download/source-docs-v1/feishu_source_doc.json) / [feishu_source_parsed.html](https://github.com/zackzhangkai/wechat-mp-skill/releases/download/source-docs-v1/feishu_source_parsed.html) |
-| 📰 目标文档 | 微信公众号文章 | [查看效果](https://mp.weixin.qq.com/s/n2PyAXrDIiEMCD9SHFUzug) | [cover.jpg](https://github.com/zackzhangkai/wechat-mp-skill/releases/download/source-docs-v1/cover.jpg) / [wechat_qr.jpg](https://github.com/zackzhangkai/wechat-mp-skill/releases/download/source-docs-v1/wechat_qr.jpg) |
+| 📘 源文档 | 飞书文档（Feishu Wiki） | [基于OpenClaw的PPT生成实战演示](https://my.feishu.cn/wiki/ONBMwTICRiVBzJkek7RczorgnNh) | [Issue #1](https://github.com/zackzhangkai/wechat-mp-skill/issues/1) |
+| 📰 目标文档 | 微信公众号文章 | [查看效果](https://mp.weixin.qq.com/s/n2PyAXrDIiEMCD9SHFUzug) | [Issue #1](https://github.com/zackzhangkai/wechat-mp-skill/issues/1) |
 | 👤 个人资料 | GitHub Issue | [Issue #3](https://github.com/zackzhangkai/openclaw-course-website/issues/3) | — |
 | 📦 开源仓库 | wechat-mp-skill | [GitHub 仓库](https://github.com/zackzhangkai/wechat-mp-skill) | — |
+
+> ⚠️ **源文件上传说明**：`feishu_source_doc.json`、`feishu_source_parsed.html`、`cover.jpg`、`wechat_qr.jpg` 等文件已上传至 [Issue #1](https://github.com/zackzhangkai/wechat-mp-skill/issues/1)，请访问 Issue 下载。GitHub CLI 不支持自动上传附件，如需更新文件请手动在 Issue 页面拖拽上传。
+
+> ⚠️ **源文件说明**：GitHub Issues 不支持 API 上传附件，所有源文件已上传至 [Release source-docs-v1](https://github.com/zackzhangkai/wechat-mp-skill/releases/tag/source-docs-v1)，包含：
+> - `feishu_source_doc.json` — 飞书 API 返回的 raw blocks
+> - `feishu_source_parsed.html` — 解析后的源文档 HTML
+> - `cover.jpg` — 公众号文章封面
+> - `wechat_qr.jpg` — 公众号二维码
 
 **源文档文件说明：**
 - `feishu_source_doc.json` — 飞书 API 返回的 raw blocks（11张图片、正文、样式）
